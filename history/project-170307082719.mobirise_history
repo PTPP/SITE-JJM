@@ -21,14 +21,17 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 68,
+    "uniqCompNum": 66,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-50260950-6', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index": {
@@ -358,7 +361,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-ptpp-biale-1400x1345.png",
+              "src": "file:///C:/Users/dafud/AppData/Local/Mobirise.com/Mobirise/projectData/logo-ptpp-biale-1400x1345.png",
               "link": "http://www.psychopedagog.eu",
               "alt": "",
               "title": "",
@@ -573,54 +576,6 @@
           "title": "UMÓW SIĘ NA SESJĘ!",
           "text": "<p>Podania Psychopedagogiczna&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">w Bolesławcu&nbsp;<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">59-700 Bolesławiec, Aleja Tysiaclecia 2</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Rejestracja telefoniczna: +48 733 379 538</b></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Rejestracja Whatsapp: (+48) 733 379 538<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">Rejestracja Gadu Gadu: 4136117<br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">E-mail: poradniabc@psychopedagog.eu</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Przyjmuję w poradni oraz w formie online!</b></span></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "H3": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1u",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#ffffff",
-            "showMeta": true
-          },
-          "title": "<p>Aktualności</p>",
-          "meta": "sprawdź co ciekawego u mnie na Twitterze"
-        },
-        {
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-1v",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "1",
-            "youtube": "",
-            "facebook": "",
-            "twitter": "JustynaMieniek",
-            "google": "",
-            "postToLoad": "5",
-            "bgImage": "file:///C:/Users/dafud/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f"
-          },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
         },
         {
           "_inherit": "social-buttons2",
