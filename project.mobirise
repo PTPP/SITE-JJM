@@ -28,7 +28,10 @@
     "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-50260950-6', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
     "cookiesAlert": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index": {
@@ -358,7 +361,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-ptpp-biale-1400x1345-1.png",
+              "src": "file:///C:/Users/dafud/AppData/Local/Mobirise.com/Mobirise/projectData/logo-ptpp-biale-1400x1345_1.png",
               "link": "http://www.psychopedagog.eu",
               "alt": "",
               "title": "",
@@ -620,7 +623,7 @@
             "overlayOpacity": 0.6,
             "overlayColor": "#7e9b9f"
           },
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg"
+          "loadsvg": "file:///C:/Users/dafud/AppData/Local/Mobirise.com/Mobirise/projectData/loading.svg"
         },
         {
           "_inherit": "social-buttons2",
