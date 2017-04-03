@@ -363,7 +363,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/logo-ptpp-biale-1400x1345.png",
+              "src": "file:///C:/Users/Lenovo/AppData/Local/Mobirise.com/Mobirise/projectData/logo-ptpp-biale-1-1400x1345.png",
               "link": "http://www.psychopedagog.eu",
               "alt": "",
               "title": "",
@@ -405,7 +405,7 @@
             "paddingBottom": "4",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgImage": "file:///C:/Users/Lenovo/AppData/Local/Mobirise.com/Mobirise/projectData/mbr-1-2000x1330_2.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -420,7 +420,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.psychopedago.eu/siatka/specjalisci.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>SIATKA SPECJALISTÓW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"siatka/specjalisci.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>SIATKA SPECJALISTÓW</a>",
           "text": "Zapoznaj się z zespołem specjalistów PTPP z którymi współpracuję i wybierz kogoś.",
           "title": "Zobacz specjalistów PTPP!"
         },
@@ -748,7 +748,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://www.psychopedagog.eu\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Polskie Towarzystwo <br>Psychopedagogiczne</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Polskie Towarzystwo <br>Psychopedagogiczne</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#header3-z\"><span class=\"mbri-briefcase mbr-iconfont mbr-iconfont-btn\"></span>OFERTA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#msg-box1-1y\"><span class=\"mbri-link mbr-iconfont mbr-iconfont-btn\"></span>ZESPÓŁ</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index#msg-box8-1p\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>KONTAKT / REJESTRACJA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
