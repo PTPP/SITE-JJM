@@ -420,7 +420,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.psychopedagog.eu/siatka/specjalisci.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>SIATKA SPECJALISTÓW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://www.psychopedago.eu/siatka/specjalisci.html\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-users mbr-iconfont mbr-iconfont-btn\"></span>SIATKA SPECJALISTÓW</a>",
           "text": "Zapoznaj się z zespołem specjalistów PTPP z którymi współpracuję i wybierz kogoś.",
           "title": "Zobacz specjalistów PTPP!"
         },
